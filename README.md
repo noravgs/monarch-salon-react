@@ -1,8 +1,8 @@
-# Monarch
+# Monarch Salon
 Monarch Salon React and Tailwind CSS
-**Link to project:** https://noravgs.netlify.app/
+**Link to project:** https://monarch-salon.netlify.app/
 
-![image]()
+![image](https://github.com/noravgs/monarch-salon-react/blob/main/src/assets/salon.png?raw=true)
 
 ## How It's Made:
 
