@@ -39,6 +39,9 @@ h1,h2{
    gap: 20px;
    grid-auto-rows: auto;
    height: auto;
+   font-size: x-small;
+   padding: 10px;
+   font-weight: 700;
  }
 .skillsGrid img {
  height: 75px;

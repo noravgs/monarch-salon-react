@@ -14,7 +14,7 @@ const About = () => {
       <div className='sm:text-right text-2xl font-bold'>
        <p>We love what we do, Bring out the beauty you have always dreamed of.</p>
       </div>
-      <div className="text-4xl">
+      <div className="text-2xl">
        <p>We specialize in all hair types. What sets us apart is our passion for healthy hair care. We enable clients to live their lives more fully, improving the quality of their relationships and making them feel beautiful, confident and ready to achieve their goals.</p>
       </div>
      </div>
