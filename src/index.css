@@ -23,8 +23,8 @@
 }
 
 h1,h2{
-  background-color: rgba(186, 189, 235, 0.4);
-  color: white;
+  background-color:#4ccaf0dc;
+  /* color: white; */
 }
 
 .content-div:hover {

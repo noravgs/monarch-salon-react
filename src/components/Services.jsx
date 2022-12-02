@@ -3,7 +3,7 @@ import Skill from '../Skill'
 
 const Services = () => {
  return (
-  <div name='skills' className='w-full h-screen bg-[#deaaff] text-white pt-20'>
+  <div name='skills' className='w-full h-screen bg-[#deaaff] text-[#033c72] font-bold pt-20'>
    {/* container */}
    <div></div>
    <div className='max-w-[1000px] mx-auto flex flex-col justify-center w-full h-full'>

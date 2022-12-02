@@ -7,10 +7,10 @@ const Navbar = () => {
   const handleClick = () => setNav(!nav)
 
  return (
-  <div className='fixed w-full h-[80px] flex justify-evenly items-center px-4 bg-[#4cc9f0] text-white'><img src="https://www.svgrepo.com/show/265821/butterfly.svg" alt="logo image" className="w-5 h-5" />
+  <div className='fixed w-full h-[80px] flex justify-evenly items-center font-extrabold px-4 bg-[#4cc9f0] text-[#033c72] overflow-hidden' ><img src="https://www.svgrepo.com/show/265821/butterfly.svg" alt="logo image" className="w-5 h-5" />
     <div>
        
-       <span className='sm:text-xl font:bold text-[#7209b7]'>MONARCH SALON</span>
+       <span className='sm:text-xl font:bold text-[#033c72]'>MONARCH SALON</span>
     </div>
     {/*Menu */}
     
